@@ -13,15 +13,3 @@
 - Email: iminevski4@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/ivan-minevski-41b79b25b/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
 
-
-
-- 👋 Hi, I’m @I-Minevski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-I-Minevski/I-Minevski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
