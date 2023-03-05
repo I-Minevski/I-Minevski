@@ -1,6 +1,6 @@
 # Hello and welcome to my GitHub page!
 # My name is Ivan Minevski.
-### Living and studying in Bulgaria. 
+### Based in Bulgaria. 
 ### Currently studying at the Sofia Higah School of Mathematics.
 
 
