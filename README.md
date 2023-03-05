@@ -1,6 +1,6 @@
 # Hello and welcome to my GitHub page!
 # My name is Ivan Minevski.
-### Born, living and studying in Bulgaria. <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-bulgaria_1f1e7-1f1ec.png"> 
+### Living and studying in Bulgaria. 
 ### Currently studying at the Sofia Higah School of Mathematics.
 
 
