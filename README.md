@@ -5,7 +5,7 @@
 
 
 ### Programming skills
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> Currently attending Python Advanced course at SoftUni
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> Currently attending Python Advanced course at [SoftUni](https://softuni.bg/)
 - <img width="25" src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg"> Moderate experience with Java
 - <img width="15" src="https://skillicons.dev/icons?i=html"> Basic skills with HTML and CSS
 
